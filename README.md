@@ -1,6 +1,6 @@
 # To-Do List App
 
-![](./screenshot.png)
+![](./Screenshot.png)
 
 ## Description:
 
@@ -9,8 +9,10 @@ New tasks can be added using the Add Task form. When the task is clicked it is c
 
 In the project directory, you can run:
 
+### `npm install`
+
 ### `npm start`
 
 <br/>
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in the development mode.
+Open http://www.localhost:3000 to view it in your browser.

@@ -1,0 +1,25 @@
+.task-item {
+  width: 27rem;
+  height: 3rem;
+  margin: 1rem 0;
+  background: #39a3be;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  color: white;
+  padding: 0 1rem;
+  cursor: pointer;
+  font-size: 1.7rem;
+  line-height: 3rem;
+}
+
+.done {
+  background: #2adf19;
+  text-decoration: line-through;
+}
+
+.list-item-box {
+  width: 30rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
